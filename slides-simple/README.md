@@ -1,6 +1,6 @@
 # slides-simple theme
 
-[ENGLISH](#desc-eng) /SPANISH Description
+[ENGLISH](#desc-eng) /[SPANISH](#desc-spa) Description
 
 ## <a name="desc-eng"></a> ENGLISH
 This is a very simple (or minimalist) template.
@@ -22,7 +22,7 @@ Additionally:
 
 Pandoc and LaTeX (TeX Live distribution).
  
-## SPANISH
+## <a name="desc-spa"></a>SPANISH
 
 Esta es una plantilla muy simple (o minimalista).
 

@@ -1,0 +1,27 @@
+%\usepackage[dvipsnames]{xcolor}
+\usetheme{default}
+%\usetheme{Madrid}
+\useoutertheme{miniframes} % Alternatively: miniframes, infolines, split
+\useinnertheme{circles}
+
+%%% RGB color values %%%%
+%%UAS YELLOW 0.859	0.686	0.008
+%%UAS BLUE 0.000	0.231	0.557
+
+\definecolor{UASblue}{rgb}{0.000,0.231,0.557} % UBC Blue (primary)
+
+\usecolortheme[named=UASblue]{structure}
+%\usecolortheme[named=Mahogany]{structure} % Sample dvipsnames color
+
+\addtobeamertemplate{navigation symbols}{}{%
+    \usebeamerfont{footline}%
+    \usebeamercolor[fg]{footline}%
+    \hspace{1em}%
+    %\insertframenumber
+    \insertframenumber/\inserttotalframenumber
+}
+
+%Set footer
+%set blue color
+%\setbeamercolor{footline}{fg=UASblue}
+%\setbeamerfont{footline}{series=\bfseries}

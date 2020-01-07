@@ -7,7 +7,7 @@ This is a very simple (or minimalist) template.
 
 It's a template to create slides using `Markdown` language for content and Pandoc to compile. Pandoc will use `Beamer LaTeX` package to compile.
 
-This template use this beamer themes:
+This template use these `Beamer` themes:
 
 - `defaulttheme` as main theme.
 - `miniframe` as outer theme.
@@ -28,7 +28,7 @@ Esta es una plantilla muy simple (o minimalista).
 
 Es una plantilla para crear diapositivas utilizando el lenguaje Markdown para escribir el contenido y `Pandoc` para compilar. `Pandoc` usará el paquete `Beamer` (de `LaTeX`) para compilar.
 
-This template use this beamer themes:
+Esta plantilla usa estos temas de `Beamer`:
 
 - `defaulttheme` como el tema principal.
 - `miniframe` como el *outer theme*.

@@ -78,3 +78,14 @@ awk -F: -f ejemplo02.awk /etc/passwd
 
 ![Imagen de demostración.](images/puzzle.png)
 
+
+
+## Ejemplo - tabla
+
+| Tablas        | son                   | fáciles  |
+| ------------- |:---------------------:| --------:|
+| col 3 is      | alineado a la derecha | $1950 |
+| col 2 is      | centrado              |   $12 |
+| última        | línea                 |    $1 |
+
+

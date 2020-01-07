@@ -1,8 +1,8 @@
 # slides-simple theme
 
-<a name="desc-eng">ENGLISH</a> /SPANISH Description
+[ENGLISH](#desc-eng) /SPANISH Description
 
-## [ENGLISH](#desc-eng)
+## <a name="desc-eng"></a> ENGLISH
 This is a very simple (or minimalist) template.
 
 It's a template to create slides using `Markdown` language for content and Pandoc to compile. Pandoc will use `Beamer LaTeX` package to compile.

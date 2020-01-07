@@ -8,7 +8,7 @@ It's a template to create slides using `Markdown` language for content. Pandoc w
 
 This template use this beamer themes:
 
-- `defaulttheme`.
+- `defaulttheme` as main theme.
 - `miniframe` as outer theme.
 - `circles` as inner theme.
 

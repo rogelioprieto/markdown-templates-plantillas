@@ -84,7 +84,7 @@ awk -F: -f ejemplo02.awk /etc/passwd
 
 | Tablas          | son                   | fáciles  |
 | --------------- |:---------------------:| --------:|
-| col 3 está      | alineado a la derecha |    $1950 |
+| col 3 está      | alineada a la derecha |    $1950 |
 | col 2 está      | centrado              |      $12 |
 | última          | línea                 |       $1 |
 

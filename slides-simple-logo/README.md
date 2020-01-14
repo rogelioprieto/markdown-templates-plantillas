@@ -1,4 +1,4 @@
-# slides-simple theme
+# slides-simple-logo theme
 
 [ENGLISH](#desc-eng) /[SPANISH](#desc-spa) Description
 

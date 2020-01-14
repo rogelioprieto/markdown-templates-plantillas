@@ -15,6 +15,7 @@ This template use these `Beamer` themes:
 
 Additionally: 
 
+ - Show logo in title slide.
  - Hide navigation simbols.
  - Show frame number and total frames.
 
@@ -36,6 +37,7 @@ Esta plantilla usa estos temas de `Beamer`:
 
 Adicionalmente: 
 
+ - Muestra el logo en la diapositiva de título.
  - Oculta los símbolos de navegación (típicamente aparecen en la parte inferior del pdf resultante).
  - Muestra el número de diapositiva y el total de diapositivas.
  

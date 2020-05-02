@@ -8,6 +8,7 @@ How to setup SublimeText to recognize Markdown syntax and preview the result.
 ## Solution:
 Install two packages and setup a shortcut.
 
+## Step by step
 
 ### 1. Install Package Control
 
@@ -85,6 +86,9 @@ Finally if you want to activate ```ctrl+b``` for **bold** and ```ctrl+i``` for _
 ```
 
 
-### Source 1: <http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html>
+### Source 1:
 
-### Source 2: <https://geekytheory.com/como-escribir-en-markdown-con-sublime-text>
+<http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html>
+
+### Source 2:  
+<https://geekytheory.com/como-escribir-en-markdown-con-sublime-text>

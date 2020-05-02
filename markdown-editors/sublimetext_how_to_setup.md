@@ -90,5 +90,6 @@ Finally if you want to activate ```ctrl+b``` for **bold** and ```ctrl+i``` for _
 
 <http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html>
 
-### Source 2:  
+### Source 2:
+
 <https://geekytheory.com/como-escribir-en-markdown-con-sublime-text>

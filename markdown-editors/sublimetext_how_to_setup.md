@@ -63,6 +63,8 @@ Save the key bindings file.
 
 When working on a Markdown file, type ```alt+m``` to generate an HTML preview of your document that will open in your default browser. (You can also call the Markdown Preview command using the Command Palette. You hit ```control+shift+p``` to call up the Command Palette, then type "Preview", select "Markdown Preview: Python Markdown: Preview in Browser", and hit enter.)
 
+### 6. Set keyboard shortcut for bold an italic font style.
+
 Finally if you want to activate ```ctrl+b``` for **bold** and ```ctrl+i``` for _italic_ you can add:
 
 ```css

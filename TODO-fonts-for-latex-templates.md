@@ -6,3 +6,11 @@ In LaTeX, it could be:
 <https://tug.org/FontCatalogue/qtancientolive/>  
 or <https://tug.org/FontCatalogue/berasans/> 
 
+### Raleway
+
+It's used in this template:
+Monthly Budget in google spreadsheets
+![](https://www.tug.org/FontCatalogue/raleway/raleway-4.png)
+
+
+

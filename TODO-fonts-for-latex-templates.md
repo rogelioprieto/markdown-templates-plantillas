@@ -6,7 +6,7 @@ In LaTeX, it could be:
 <https://tug.org/FontCatalogue/qtancientolive/>  
 or <https://tug.org/FontCatalogue/berasans/> 
 
-### Raleway
+### Raleway
 
 It's used in this template:
 Monthly Budget in google spreadsheets

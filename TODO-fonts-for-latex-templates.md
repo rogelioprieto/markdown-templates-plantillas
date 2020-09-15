@@ -14,3 +14,4 @@ Monthly Budget in google spreadsheets
 
 <https://www.figma.com/google-fonts/raleway-font-pairings/>
 
+[Raleway font in action!](http://typ.io/fonts/raleway)

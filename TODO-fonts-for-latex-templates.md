@@ -9,7 +9,8 @@ or <https://tug.org/FontCatalogue/berasans/>
 ### Raleway
 
 It's used in this template:
-Monthly Budget in google spreadsheets
+Monthly Budget in google spreadsheets  
+<https://www.tug.org/FontCatalogue/raleway/>
 ![](https://www.tug.org/FontCatalogue/raleway/raleway-4.png)
 
 <https://www.figma.com/google-fonts/raleway-font-pairings/>

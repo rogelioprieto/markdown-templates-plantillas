@@ -16,3 +16,13 @@ Monthly Budget in google spreadsheets
 <https://www.figma.com/google-fonts/raleway-font-pairings/>
 
 [Raleway font in action!](http://typ.io/fonts/raleway)
+
+
+### Playfair Display
+It's used in headers:
+<https://www.mypearsonshop.com.mx/>  
+
+![](https://tug.org/FontCatalogue/playfairdisplay/playfairdisplay-2.png)
+<https://tug.org/FontCatalogue/playfairdisplay/>
+
+

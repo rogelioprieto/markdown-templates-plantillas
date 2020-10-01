@@ -22,7 +22,7 @@ Monthly Budget in google spreadsheets
 It's used in headers:
 <https://www.mypearsonshop.com.mx/>  
 
-![](https://tug.org/FontCatalogue/playfairdisplay/playfairdisplay-2.png)
+![](https://tug.org/FontCatalogue/playfairdisplay/playfairdisplay-2.png)  
 <https://tug.org/FontCatalogue/playfairdisplay/>
 
 
